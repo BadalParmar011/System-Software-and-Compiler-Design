@@ -3,7 +3,7 @@
 Created on Mon Oct 04 19:29:15 2021
 
 @author: Badal Parmar
-    Write a program to calculate first and follow of a given LL (1) grammar.
+Write a program to calculate first and follow of a given LL (1) grammar.
 """
 
 grammar = open(r'C:/Users/Badal Parmar/Downloads/input.txt', 
