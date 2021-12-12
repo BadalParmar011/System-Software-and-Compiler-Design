@@ -6,7 +6,7 @@ Created on Mon Oct 04 19:29:15 2021
     Write a program to calculate first and follow of a given LL (1) grammar.
 """
 
-grammar = open(r'C:/Users/Badal Parmar/Downloads/input_18BCP011.txt', 
+grammar = open(r'C:/Users/Badal Parmar/Downloads/input.txt', 
                'r',
                encoding='utf-8')
 non_terminal_rules = grammar.readlines()
