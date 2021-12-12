@@ -3,12 +3,7 @@
 Created on Wed Sept 1 10:15:40 2021
 
 @author: Badal Parmar
-@rollno: 18BCP011
-@branch: Computer Engineering
-@division: 1
-
-Experiment 3:
-    Write a program to convert the non-deterministic grammar into deterministic
+Write a program to convert the non-deterministic grammar into deterministic
     grammar.
 """
 final_productions = {}
